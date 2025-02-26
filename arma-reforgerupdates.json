@@ -4,7 +4,7 @@
         "UpdateSourcePlatform": "All",
         "UpdateSource": "SteamCMD",
         "UpdateSourceData": "1890870",
-        "UpdateSourceArgs": "1874880"
+        "UpdateSourceArgs": "1890860"
     },
     {
         "UpdateStageName": "Create Configs Directory",
